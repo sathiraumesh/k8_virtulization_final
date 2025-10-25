@@ -19,3 +19,5 @@ From the root or inside this folder:
 cd kubernetes
 kubectl apply -k .
 
+Access the web application from `http://localhost:30000`
+
