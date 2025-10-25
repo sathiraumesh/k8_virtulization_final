@@ -1,0 +1,7 @@
+{
+  "auths": {
+    "https://index.docker.io/v1/": {
+      "auth": "your_docker_hub_username:token in base64"
+    }
+  }
+}
